@@ -22,7 +22,7 @@ As chaves usadas para fazer essa criptografia foram:
 <br><br>
 
 <div>
-  <a href="https://leandroazevedo-1.github.io/challenge-Oracle-One-Decodificador-de-Texto/" taget="_blank">CLIQUE AQUI E VEJA COMO FICOU</a>
+  <a href=" taget="_blank">CLIQUE AQUI E VEJA COMO FICOU</a>
 <div/>
 
 
