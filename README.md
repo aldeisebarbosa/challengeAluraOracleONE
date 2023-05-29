@@ -22,7 +22,7 @@ As chaves usadas para fazer essa criptografia foram:
 <br><br>
 
 <div>
-  <a href=" taget="_blank">CLIQUE AQUI E VEJA COMO FICOU</a>
+  <a href=" https://aldeisebarbosa.github.io/challengeAluraOracleONE/"_blank">Veja o resultado aqui!</a>
 <div/>
 
 
